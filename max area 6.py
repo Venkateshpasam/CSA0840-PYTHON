@@ -24,4 +24,4 @@ print(maxArea(a, len1))
 len2 = len(b)
 
 print(maxArea(b, len2))
-Footer
+
